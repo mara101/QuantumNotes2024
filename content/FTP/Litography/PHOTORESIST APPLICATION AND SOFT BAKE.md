@@ -1,0 +1,7 @@
+The **photoresist application** process is a crucial step in lithography that prepares the wafer surface for patterning. The application process begins with spin coating. During spin coating, the wafer is coated with a liquid layer of photoresist, which spreads evenly over the surface. The thickness of the photoresist layer is determined by various factors, including the viscosity of the photoresist and the speed at which the wafer spins. Typically, the thickness of the applied photoresist layer is in the range of 0.5 to 2.5 micrometers.
+![[Screenshot_20241011_105858.png|400X400]]
+
+During this process, issues such as **edge beads** may occur, which can interfere with subsequent photolithography steps. Edge beads form when excess photoresist accumulates around the perimeter of the wafer. These must be carefully controlled or removed to ensure uniform coverage and proper pattern transfer during exposure.
+![[Screenshot_20241011_105927.png|400X400]]
+After the photoresist has been applied, the wafer undergoes a **soft bake** process. This step is necessary to remove the solvents from the photoresist layer and to improve its adhesion to the wafer. The temperature and duration of the soft bake are controlled carefully to ensure the photoresist does not become too brittle or remain too soft.
+![[Screenshot_20241011_110146.png]]

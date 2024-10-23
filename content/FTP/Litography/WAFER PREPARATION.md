@@ -1,0 +1,9 @@
+Wafer preparation is a critical stage in the lithographic process, primarily focused on preparing the wafer surface for subsequent photolithography steps. This step involves ensuring that the wafer surface is clean, smooth, and free from contaminants or defects. The preparation process includes several key activities that are vital for ensuring the accuracy and quality of the lithographic process.
+
+One of the first steps in wafer preparation is **cleaning**. This involves removing any particles, dust, or organic contaminants that might be present on the wafer surface. These contaminants can interfere with the application of the photoresist and the exposure process, leading to defects in the final pattern. Ultra-pure deionized water is commonly used to rinse the wafers thoroughly, ensuring that no residual particles or chemical contaminants remain on the surface.
+
+After cleaning, **adhesion promotion**, or primer, is often performed to improve the bonding between the photoresist and the wafer surface. This is essential because poor adhesion can lead to resist lifting or peeling during the lithography or development process.
+
+The next important step in wafer preparation is **baking**. Once the wafer is cleaned and an adhesion promoter has been applied, it is typically baked to remove any residual moisture that could interfere with the application of the photoresist. Moisture can lead to poor resist coating or defects in the subsequent lithography process, so a dehydration bake is often performed at elevated temperatures, typically around 130°C to 200°C.
+
+Wafer preparation also includes the application of **alignment marks**. These marks are used later in the lithography process to ensure that multiple layers are properly aligned.
